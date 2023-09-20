@@ -5,4 +5,4 @@ This repository was created for personal notes and to assist other CTF players i
 # CTF Competitions
 | Event Name | Writeup Link |
 | --- | --- |
-| UWSP Pointer Overflow CTF | <a href="/UWSP Pointer Overflow CTF"></a> |
+| UWSP Pointer Overflow CTF | <a href="UWSP Pointer Overflow CTF"></a> |
