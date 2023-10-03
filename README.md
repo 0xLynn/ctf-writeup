@@ -6,3 +6,4 @@ This repository was created for personal notes and to assist other CTF players i
 | Event Name | Writeup Link |
 | --- | --- |
 | UWSP Pointer Overflow CTF | <a href="UWSP Pointer Overflow CTF">Click Here</a> |
+| Huntress CTF | <a href="Huntress CTF">Click Here</a> |
